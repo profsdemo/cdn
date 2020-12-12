@@ -7,6 +7,6 @@ echo #=======================
 
 echo.
 
-echo #= Système =============
+echo #= Systeme =============
 wmic os get version | find "Version" /v
 echo #=======================
